@@ -1,0 +1,5 @@
+[core]
+    remote = yandex-test-remote
+['remote "yandex-test-remote"']
+    url = s3://test-dvc-remote-bucket/temp-pavel-dvc
+    endpointurl = https://storage.yandexcloud.net
